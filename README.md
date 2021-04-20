@@ -4,7 +4,8 @@ The repository contains notebooks developed for the Mercado Libre job applicatio
 
 **mlchallenge_part1.ipynb:**
 
-data extraction from API and EDA (*obs: the data used in part_2 is generated in this notebook and saved in a pickle file.
+data extraction from API and EDA
+(*obs: the data used in part_2 is generated in this notebook and saved in a pickle file.
 please run the extraction part to be able to run part2 and PoissonReg notebooks*)
 
 **mlchallenge_part2.ipynb**
